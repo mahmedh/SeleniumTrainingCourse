@@ -22,4 +22,9 @@ public class LoginTests extends BaseTests {
       assertTrue(secureText.contains("You logged into a secure are"),"alert text is incorrect");
 
     }
+    @Test
+    public void learnGit()
+    {
+        
+    }
 }
