@@ -27,4 +27,9 @@ public class LoginTests extends BaseTests {
     {
         
     }
+    @Test
+    public void learnGitFetch()
+    {
+
+    }
 }
